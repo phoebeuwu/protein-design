@@ -13,17 +13,11 @@ This is <b>my first research project completed independently :smile:</b>, it dev
 |File Name|Function|
 |---|---|
 |<b>SIRT6fullarticle.pdf|Complete paper for participate in S.-T. Yau High School Science Award 2023, with more detailed content than the published paper|
-### /data
-|File Name|Function|
-|---|---|
+|<b>/data||
 |<b>anage_data.txt|Maximum lifespan (MLS) retrieved from the AnAge database (a sub-library of HAGR, https://genomics.senescence.info/species/index.html)|
 |<b>mammal_meta_info.csv|Supplement document of the study "Lu AT, Fei Z, Haghani A, et al. Universal DNA methylation age across mammalian tissues. Nat Aging. Published online August 10, 2023. doi:10.1038/s43587-023-00462-6", provide additional MLS data|
-|<b>sirt6_sequence_1307.fasta|SIRT6 sequences retrieved from NCBI ortholog database (https://www.ncbi.nlm.nih.gov/gene/51548/ortholog/?scope=40674& term=SIRT6), FASTA format|
-
-### /Script
-
-|File Name|Function|
-|---|---|
+|<b>sirt6_sequence_1307.fasta|SIRT6 sequences retrieved from NCBI ortholog database (https://www.ncbi.nlm.nih.gov/gene/51548/ortholog/?scope=40674&term=SIRT6), FASTA format|
+|<b>/Script||
 |<b>1_NCBIdata.r| Arrange raw NCBI sequences into a data table format| 
 |<b>1_dataclean.py | Combine MLS and sequence data files |
 |<b>3_RoseTTAFold-transfer_mod.ipynb | RoseTTAFold model for calculating 3D PDB structures of all sequences, modified from the officially provided notebook file RoseTTAFold.ipynb, colab python code, https://colab.research.google.com/drive/1whVfMQ-syuXFCzv7RokTMt6_g6B6JEep?usp=sharing | 
