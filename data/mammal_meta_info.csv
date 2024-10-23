@@ -1,0 +1,186 @@
+﻿Species Latin Name,Species Index,Species Common Name,Order,N,Female,Number of Tissue Types,Mean of Age,SD of Age,Minimum of Age,Maximum of Age,Gestation (yrs),Averaged Sexual Maturity (yrs),Maximum Lifespan (yrs),Weight (gram),Marsupial species,Tissue type
+Acinonyx jubatus,5.2.1,Cheetah,Carnivora,14,62%,1,6.64,3.55,1.03,12.43,0.241,1.25,20.5,53500,no,Blood
+Acomys cahirinus,9.9.5,Spiny mouse,Rodentia,107,89%,2,1.38,1.21,-0.05,4,0.104,0.16,5.9,45.2,no,Ear;Fibroblast
+Addax nasomaculatus,4.1.1,Addax,Artiodactyla,1,0%,1,10.63,,10.63,10.63,0.773,2.92,28,92500,no,Blood
+Aepyceros melampus,4.1.2,Impala,Artiodactyla,1,100%,1,6,,6,6,0.542,1.17,25.6,52500,no,Blood
+Amblysomus hottentotus,13.1.1,Hottentot golden mole,Afrosoricida,9,,4,0.12,0,0.12,0.12,0.329,0.2,4,54.75,no,Brain;Liver;Muscle;Skin
+Antidorcas marsupialis,4.1.3,Springbok,Artiodactyla,2,0%,1,4.59,6.16,0.23,8.95,0.46,0.84,19.8,39000,no,Blood
+Antrozous pallidus,8.7.1,Pallid bat,Chiroptera,23,91%,1,3.49,1.79,0.2,7,0.17,1,14.8,20.8,no,Skin
+Aonyx cinereus,5.6.1,Asian small-clawed otter,Carnivora,16,69%,2,10.59,3.47,7.59,18.18,0.173,2,23,3000,no,Blood;Skin
+Apodemus sylvaticus,9.9.15,Long-tailed field mouse,Rodentia,90,56%,4,0.46,0.2,0.16,1.05,0.063,0.19,6.3,23.4,no,Blood;Ear;Liver;Spleen
+Artibeus jamaicensis,8.4.1,Jamaican fruit bat,Chiroptera,3,100%,1,12.23,1.08,11,13,0.208,0.79,19.2,42.2,no,Skin
+Atelerix albiventris,12.1.1,Four-toed hedgehog,Eulipotyphla,8,,4,0.12,0,0.12,0.12,0.096,0.23,11.4,500,no,Brain;Liver;Muscle;Skin
+Balaena mysticetus,4.11.1,Bowhead whale,Artiodactyla,88,45%,6,22.69,27.51,1,139,1.164,22.5,211,100000000,no,Cortex;Heart;Kidney;Liver;Muscle;Skin
+Bathyergus suillus,9.1.4,Cape-dune mole rat,Rodentia,8,,4,5.5,0,5.5,5.5,0.187,1,6,866.85,no,Brain;Liver;Muscle;Skin
+Bos taurus,4.1.4,Cattle,Artiodactyla,455,79%,4,4.56,2.86,-0.74,14.42,0.759,1.5,38,750000,no,Blood;iPSC;Oocyte;Skin
+Callithrix geoffroyi,1.8.1,White-fronted marmoset,Primates,1,100%,1,18.21,,18.21,18.21,0.407,1.38,19,342,no,Blood
+Callithrix jacchus,1.8.2,Common marmoset,Primates,95,47%,1,5.71,4,0.5,15.58,0.395,1.18,22.8,255.2,no,Blood
+Canis lupus familiaris,5.1.1,Dog,Carnivora,742,54%,1,6.21,4.24,0.1,17.5,0.17,1.83,24,26625,no,Blood
+Capra hircus,4.1.5,Domestic goat,Artiodactyla,81,74%,2,3.52,2.2,-0.41,8.55,0.425,1.49,20.8,61000,no,Ear;iPSC
+Capreolus capreolus,4.3.1,Roe deer,Artiodactyla,188,51%,1,4.2,3.34,0.67,13.67,0.419,1.46,17.5,21666.7,no,Blood
+Carollia perspicillata,8.4.2,Seba's short-tailed bat,Chiroptera,32,53%,1,4.57,3.49,0.2,10.5,0.26,0.74,17,15,no,Skin
+Cavia porcellus,9.3.1,Guinea pig,Rodentia,3,67%,2,1.21,1.09,0.3,2.42,0.186,0.19,12,728,no,Blood;Skin
+Cephalorhynchus commersonii,4.13.1,Commerson's dolphin,Artiodactyla,8,25%,2,25.86,6.97,18.56,37,0.959,5.5,38,50000,no,Blood;Skin
+Cephalorhynchus hectori hectori,4.13.2,Hector's dolphin,Artiodactyla,44,61%,1,9.22,4.74,0.2,22,0.917,7.75,23,50000,no,Skin
+Cephalorhynchus hectori maui,4.13.11,Maui dolphin,Artiodactyla,8,38%,1,13.53,8.07,3,23,0.917,7.75,23,50000,no,Skin
+Ceratotherium simum simum,6.2.1,Southern white rhinoceros,Perissodactyla,23,78%,1,9.31,8.36,0.31,29.66,1.411,4.5,45,2175000,no,Blood
+Cervus canadensis,4.3.5,Wapity elk,Artiodactyla,42,81%,1,4.6,4.1,0.1,13.68,0.688,2,25,280093.29,no,Blood
+Cervus elaphus,4.3.2,Red deer,Artiodactyla,53,75%,1,3.99,3.53,0.08,10.84,0.671,2.17,31.5,200000,no,Blood
+Cheirogaleus medius,1.6.1,Fat-tailed dwarf lemur,Primates,3,0%,2,20.08,16.53,0.99,29.62,0.167,1,30,380,no,Blood;Skin
+Chinchilla lanigera,9.4.1,Long-tailed chinchilla,Rodentia,3,0%,1,0.92,0.14,0.75,1,0.304,0.66,17.2,642.5,no,Skin
+Chlorocebus aethiops sabaeus,1.4.1,Vervet,Primates,243,63%,4,7.18,7.61,-0.43,25.02,0.444,3.92,30.8,5620,no,Blood;Cortex;iPSC;Liver
+Choloepus didactylus,20.1.1,Linne's Two-toed sloth,Pilosa,2,0%,2,13.16,0.06,13.12,13.2,0.764,4,36.8,6250,no,Blood;Skin
+Choloepus hoffmanni,20.1.2,Hoffmann's two-toed sloth,Pilosa,4,50%,1,13.78,20.35,1.78,44.18,0.959,2.5,45,6250,no,Blood
+Chrysocyon brachyurus,5.1.3,Maned wolf,Carnivora,5,80%,1,7.97,3.4,4.75,13.62,0.175,2,16.8,21500,no,Blood
+Connochaetes taurinus albojubatus,4.1.6,White-bearded gnu,Artiodactyla,10,70%,1,12.43,4.37,7,18.97,0.693,1.81,24.3,164500,no,Blood
+Cricetomys gambianus,9.12.1,Gambian pouched rat,Rodentia,1,100%,1,5,,5,5,0.093,0.43,8.4,1500,no,Liver
+Crocuta crocuta,5.5.1,Spotted hyena,Carnivora,6,100%,1,7.75,7.61,1.32,17.51,0.301,2.38,41.1,63000,no,Blood
+Cryptomys hottentotus,9.1.5,African mole rat,Rodentia,16,,5,4.5,0,4.5,4.5,0.222,1.23,11,132.5,no,Blood;Brain;Liver;Muscle;Skin
+Cuniculus paca,9.6.1,Lowland paca,Rodentia,3,0%,2,1.07,0.12,1,1.2,0.318,1,16.3,9000,no,Liver;Skin
+Cynopterus brachyotis,8.5.1,Lesser short-nosed fruit bat,Chiroptera,10,60%,1,10.56,2.09,6.7,12.9,0.307,0.69,13,45,no,Skin
+Daubentonia madagascariensis,1.9.1,Aye-aye,Primates,4,75%,2,21.04,16.74,0.7,36.67,0.452,4.25,37,2277.5,no,Blood;Skin
+Delphinapterus leucas,4.19.1,Beluga whale,Artiodactyla,185,51%,2,15.4,11.28,-1,49.21,1.279,11.01,50,1430000,no,Blood;Skin
+Delphinus delphis,4.13.12,Common dolphin,Artiodactyla,6,67%,2,14.82,10.22,2.56,26.22,0.959,4.57,35,80000,no,Blood;Skin
+Desmodus rotundus,8.4.3,Common vampire bat,Chiroptera,47,62%,2,7.7,4.83,0.3,17.3,0.518,0.78,29.9,33.2,no,Liver;Skin
+Diceros bicornis,6.2.2,Eastern black rhinoceros,Perissodactyla,5,60%,1,25.19,9.01,9.61,30.97,1.299,5.59,49,1100000,no,Blood
+Echinops telfairi,13.2.1,Lesser hedgehog tenrec,Afrosoricida,8,,4,2.17,0,2.17,2.17,0.151,1,19,180,no,Brain;Liver;Muscle;Skin
+Eidolon helvum,8.5.2,Straw-colored fruit bat,Chiroptera,24,71%,1,8.35,4.3,3.4,16.5,0.753,1.75,21.8,306.25,no,Skin
+Elephas maximus,2.1.1,Asian elephant,Proboscidea,83,81%,1,36.99,17.39,2.36,73.59,1.764,9.01,88,3178000,no,Blood
+Enhydra lutris,5.6.2,Southern sea otter,Carnivora,6,100%,2,6.93,1.78,4.7,8.54,0.384,3.21,27,25850,no,Blood;Skin
+Eptesicus fuscus,8.7.2,Big brown bat,Chiroptera,79,32%,4,4.37,3.47,0.3,18.3,0.164,1.75,23,23,no,Brain;Liver;Muscle;Skin
+Equus africanus somaliensis,6.1.4,Somali wild ass,Perissodactyla,7,14%,1,7.21,2.49,2.38,10.03,1.007,1.75,47,250000,no,Blood
+Equus caballus,6.1.1,Horse,Perissodactyla,350,71%,34,8.24,6.51,0,29,0.923,2.58,57,300000,no,Adipose;AdrenalCortex;Blood;Cartilage;Cecum;Cerebellum;Cortex;Duodenum;Fibroblast;Heart;Hypothalamus;Ileum;Jejunum;Keratinocyte;Kidney;Lamina;Larynx;Liver;Lung;Mammary;MitralValve;Muscle;OccipitalCortex;Ovaries;ParietalCortex;Pituitary;Sacrocaudalis;Skin;SpinalCord;Spleen;Suspensory;TemporalCortex;Tendon;Uterus
+Equus grevyi,6.1.2,Grevy's zebra,Perissodactyla,5,20%,1,9.04,6.67,2.31,18.47,1.112,3.75,31,384000,no,Blood
+Equus quagga,6.1.3,Zebra,Perissodactyla,96,53%,2,5.35,4.83,0.16,24.77,1,2.47,38,280000,no,Blood;Skin
+Eudorcas thomsonii,4.1.7,Thomson's Gazelle,Artiodactyla,4,50%,1,2.28,4.54,0,9.09,0.466,1,20,25000,no,Blood
+Eulemur albifrons,1.3.1,White-headed lemur,Primates,3,67%,2,29.61,8.63,19.65,34.59,0.329,2.66,34.59,2231.59,no,Blood;Skin
+Eulemur collaris,1.3.7,Collared brown lemur,Primates,4,75%,2,20.34,16.33,0.84,33.83,0.337,2.07,37,2333.61,no,Blood;Skin
+Eulemur coronatus,1.3.2,Crowned lemur,Primates,3,0%,2,10.95,9.2,0.98,19.1,0.345,1.67,30,1645,no,Blood;Skin
+Eulemur flavifrons,1.3.8,Blue-eyed black lemur,Primates,4,0%,2,15.41,11.55,0.32,27.4,0.348,2.1,32,2433,no,Blood;Skin
+Eulemur fulvus,1.3.3,Brown lemur,Primates,3,67%,2,25.68,7.19,17.38,29.83,0.323,1.56,35.5,2485,no,Blood;Skin
+Eulemur macaco,1.3.4,Black lemur,Primates,4,25%,2,22.46,13.9,9.52,34.48,0.329,1.1,37.5,2467,no,Blood;Skin
+Eulemur mongoz,1.3.5,Mongoose lemur,Primates,4,50%,2,18.68,14.74,0.82,30.77,0.329,2.35,36.2,1555,no,Blood;Skin
+Eulemur rubriventer,1.3.6,Red-bellied lemur,Primates,4,75%,2,22.3,13.53,7.87,33.84,0.329,2.73,34,2191.5,no,Blood;Skin
+Eulemur rufus,1.3.9,Red lemur,Primates,3,33%,1,16.5,12.59,5.68,30.32,0.329,1.52,32.67,2286.44,no,Blood
+Eulemur sanfordi,1.3.10,Sanford's brown lemur,Primates,4,75%,2,22.42,12.31,9.44,32.94,0.329,1.82,32.94,2111.34,no,Blood;Skin
+Eumetopias jubatus,5.8.1,Steller sea lion,Carnivora,1,100%,1,24.68,,24.68,24.68,0.751,5.75,32.8,415000,no,Skin
+Felis catus,5.2.2,Domestic cat,Carnivora,128,45%,1,6.93,6.15,0.21,20.92,0.178,0.79,30,3900,no,Blood
+Galago moholi,1.7.1,South African galago,Primates,3,33%,2,5.52,1.47,3.9,6.76,0.34,0.71,16.6,169.2,no,Blood;Skin
+Gazella leptoceros,4.1.8,Slender Horn gazelle,Artiodactyla,3,0%,1,2.74,2.06,1.43,5.11,0.482,0.43,14.6,48500,no,Blood
+Georychus capensis,9.1.2,Cape mole rat,Rodentia,7,,4,5.5,0,5.5,5.5,0.121,0.83,11.2,181,no,Brain;Liver;Muscle;Skin
+Giraffa camelopardalis,4.4.1,Giraffe.reticulata.hybrid,Artiodactyla,1,0%,1,1.59,,1.59,1.59,1.252,4,39.5,800000,no,Blood
+Globicephala macrorhynchus,4.13.3,Short-finned pilot whale,Artiodactyla,15,67%,2,12.3,7.83,7.54,36.11,1.238,12.06,63,2200000,no,Blood;Skin
+Gorilla gorilla,1.1.2,Gorilla,Primates,6,33%,1,24.81,15.63,4.74,47.47,0.701,9.38,60.1,139842,no,Blood
+Hapalemur griseus,1.3.11,Bamboo lemur,Primates,4,75%,2,18.14,9.49,7.38,26.12,0.397,3.05,27,1012.5,no,Blood;Skin
+Heterocephalus glaber,9.1.3,Naked mole rat,Rodentia,411,47%,15,4.32,5.34,-0.18,26,0.192,5,37,35,no,Adipose;Blood;Brain;Cerebellum;Cortex;Fetus;Fibroblast;Heart;iPSC;Kidney;Liver;Lung;Muscle;Skin;Spleen
+Hippotragus equinus,4.1.9,Roan antelope,Artiodactyla,6,50%,1,2.88,4.21,0.01,9.65,0.778,2.12,25.9,225000,no,Blood
+Hippotragus niger,4.1.10,Sable antelope,Artiodactyla,5,40%,1,4.34,5,0,11.7,0.742,2.67,22.2,225000,no,Blood
+Homo sapiens,1.1.1,Human,Primates,1366,48%,20,49.89,21.42,-0.75,101,0.767,13.5,122.5,62035,no,Adipose;Blood;BoneMarrow;Cerebellum;Cortex;Dermis;Epidermis;ES;Fibroblast;Heart;Keratinocyte;Kidney;Liver;Lung;LymphNode;Muscle;Pituitary;Placenta;Skin;Spleen
+Hydrochoerus hydrochaeris,9.3.2,Capybara,Rodentia,1,0%,1,1,,1,1,0.411,1.25,15.1,55000,no,Liver
+Hystrix cristata,9.10.1,Crested porcupine,Rodentia,1,0%,1,9.58,,9.58,9.58,0.181,1.5,28,20000,no,Blood
+Kobus megaceros,4.1.11,Nile lechwe,Artiodactyla,2,50%,1,0.87,0.12,0.79,0.96,0.644,2,21.1,90000,no,Blood
+Lagenorhynchus obliquidens,4.13.4,Pacific white-sided dolphin,Artiodactyla,34,59%,2,15.21,12.57,0.43,40.39,0.975,7,41,103000,no,Blood;Skin
+Lemur catta,1.3.12,Ring-tailed lemur,Primates,4,75%,2,11.09,15.45,0.06,32.84,0.37,2.06,37.3,2555,no,Blood;Skin
+Leptonycteris yerbabuenae,8.4.4,Lesser long-nosed bat,Chiroptera,11,45%,1,1.4,1.92,0.2,5,0.411,1,10.1,25,no,Skin
+Litocranius walleri,4.1.12,Gerenuk,Artiodactyla,7,57%,1,2.96,2.38,0.9,7.39,0.559,0.98,17.3,43500,no,Blood
+Loris tardigradus,1.5.1,Slender loris,Primates,2,50%,2,17.51,0.42,17.21,17.81,0.455,1.02,21.6,238.2,no,Blood;Skin
+Loxodonta africana,2.1.2,Savanna elephant,Proboscidea,57,75%,1,24.92,13.89,1.2,48.46,1.836,10.5,65,4800000,no,Blood
+Macaca mulatta,1.4.2,Rhesus macaque,Primates,281,35%,8,18.75,8.41,1.79,42,0.452,4.44,42,8235,no,Adipose;Blood;Cortex;Kidney;Liver;Lung;Muscle;Skin
+Macropus agilis,11.1.1,Agile wallaby,Diprotodontia,3,0%,1,7.12,1.78,5.24,8.79,0.079,1.08,16.9,16000,yes,Blood
+Macropus fuliginosus,11.1.3,Western grey kangaroo,Diprotodontia,5,60%,1,2.71,1.4,1.67,5.04,0.082,2.12,23.2,28250,yes,Blood
+Macropus giganteus,11.1.4,Eastern grey kangaroo,Diprotodontia,12,42%,1,4.52,4.86,1.82,13.3,0.099,2.64,25,49500,yes,Blood
+Macropus robustus,11.1.5,Hill wallaroo,Diprotodontia,3,33%,1,10.71,2.02,8.38,11.89,0.088,1.67,22,30000,yes,Blood
+Macropus rufogriseus,11.1.6,Red-necked wallaby,Diprotodontia,5,80%,1,7.58,3.15,2.02,9.65,0.079,1.37,15.2,16200,yes,Blood
+Macropus rufus,11.1.7,Red kangaroo,Diprotodontia,37,54%,1,7.1,3.2,0.62,11.73,0.09,1.81,25,55000,yes,Blood
+Marmota flaviventris,9.13.1,Yellow-bellied marmot,Rodentia,153,100%,1,5.53,3.39,0.01,12.04,0.082,2,21.2,3500,no,Blood
+Megaptera novaeangliae,4.12.3,Humpback whale,Artiodactyla,91,55%,1,19.7,12.22,0.4,43.7,0.937,7.96,95,30000000,no,Skin
+Microcebus murinus,1.6.2,Gray mouse lemur,Primates,2,50%,1,2.76,3.25,0.47,5.06,0.167,0.67,18.2,64.8,no,Blood
+Microtus ochrogaster,9.5.5,Prairie vole,Rodentia,141,53%,3,0.55,0.32,0.06,1.11,0.063,0.13,5.3,40,no,Brain;Ear;Liver
+Mirza zaza,1.6.3,Northern giant mouse lemur,Primates,3,0%,2,16.32,3.01,12.85,18.06,0.245,1.1,20,302,no,Blood;Skin
+Molossus molossus,8.8.2,Pallas's mastiff bat,Chiroptera,14,64%,1,1.54,1.59,0.3,5.9,0.296,1.17,6,14,no,Skin
+Monodelphis domestica,10.1.3,Opossum,Didelphimorphia,100,58%,3,0.8,0.78,0.04,3.27,0.041,0.33,5.1,105,yes,Ear;Liver;Tail
+Muntiacus muntjak vaginalis,4.3.3,Indian muntjac,Artiodactyla,2,0%,1,17,0,17,17,0.575,0.83,18.8,21000,no,Blood
+Mus musculus,9.9.1,Mouse,Rodentia,2205,38%,26,0.99,0.76,-0.05,2.78,0.052,0.12,4,20.5,no,Aorta;Blood;Brain;Cerebellum;Cortex;Ear;Fibroblast;Heart;HematopoieticStem.Progenitor.LSK;Hippocampus;Hypothalamus;iPSC;Kidney;Liver;Lung;MacrophageBoneMarrow;MacrophagePeritoneal;Muscle;Pituitary;Placenta;Skin;Spleen;Striatum;SVZ;Tail;WholeBrain
+Mustela putorius furo,5.6.3,Ferret,Carnivora,2,100%,1,2.67,3.06,0.5,4.83,0.115,0.87,11.1,809,no,Blood
+Myotis brandtii,8.7.7,Brandt's bat,Chiroptera,9,0%,3,0.47,0.4,0.2,1,0.151,1.07,41,7,no,Brain;Liver;Muscle
+Myotis lucifugus,8.7.8,Little brown bat,Chiroptera,11,100%,1,1.92,1.43,0.1,5,0.151,0.77,34,10,no,Skin
+Myotis myotis,8.7.9,Greater mouse-eared bat,Chiroptera,38,95%,1,4.95,2.38,1,9,0.178,1.38,37.1,28.55,no,Skin
+Myotis vivesi,8.7.10,Fish-eating bat,Chiroptera,17,65%,1,1.05,0.76,0.1,2,0.164,1.07,10,25,no,Skin
+Nanger dama,4.1.13,Dama gazelle,Artiodactyla,8,50%,1,0.87,1.43,0.01,3.48,0.57,1.5,19.3,56900,no,Blood
+Nanger granti,4.1.14,Grant's gazelle,Artiodactyla,3,67%,1,3.37,5.32,0.08,9.51,0.537,0.69,19.7,67000,no,Blood
+Nanger soemmerringii,4.1.15,Soemmerring's gazelle,Artiodactyla,4,0%,1,4.37,3.65,1.15,8.82,0.521,1.75,15.5,48500,no,Blood
+Neophoca cinerea,5.8.2,Australian sea lion,Carnivora,1,100%,1,30.78,,30.78,30.78,0.707,4.5,31,190000,no,Skin
+Nyctalus noctula,8.7.3,Noctule,Chiroptera,6,50%,4,0.52,0.46,0.1,1,0.164,0.75,12,27.75,no,Brain;Liver;Muscle;Skin
+Nycticebus coucang,1.5.2,Slow loris,Primates,3,67%,2,16.31,7.83,7.42,22.18,0.515,1.58,25.8,890.5,no,Blood;Skin
+Nycticebus pygmaeus,1.5.3,Pygmy slow loris,Primates,4,50%,2,9.82,7.86,0.7,19.89,0.515,0.75,20,419,no,Blood;Skin
+Nycticeius humeralis,8.7.4,Evening bat,Chiroptera,24,79%,1,1.12,1.03,0,3,0.151,0.83,6,9.75,no,Muscle
+Odobenus rosmarus divergens,5.7.1,Pacific walrus,Carnivora,13,54%,2,19.27,14.89,0,40.7,0.907,6,41,1012500,no,Blood;Skin
+Okapia johnstoni,4.4.2,Okapi,Artiodactyla,1,100%,1,8.11,,8.11,8.11,1.255,1.87,33.5,225000,no,Blood
+Orcinus orca,4.13.5,Killer whale,Artiodactyla,219,58%,2,20.78,14.6,0,76,1.458,10.51,80,3987500,no,Blood;Skin
+Oreamnos americanus,4.1.16,Mountain goat,Artiodactyla,25,48%,3,5.68,3.15,1,11,0.504,2.5,20.8,90000,no,Maybe.Larynx;Muscle;Skin
+Ornithorhynchus anatinus,21.1.1,Duck-billed platypus,Monotremata,4,75%,2,11.35,12.52,0.3,25.84,0.104,1.5,26,1250,no,Blood;Liver
+Orycteropus afer,16.1.1,Aardvark,Tubulidentata,4,100%,1,4.96,4.93,0.48,10.88,0.616,2,29.8,60000,no,Blood
+Oryctolagus cuniculus,3.1.1,European rabbit,Lagomorpha,5,0%,1,3.02,1.36,1,4.5,0.082,2,9,1800,no,Blood
+Otolemur crassicaudatus,1.7.2,Greater galago,Primates,4,100%,2,12.16,3.59,7.08,14.69,0.356,1.55,22.7,1094.5,no,Blood;Skin
+Ovis aries,4.1.17,Sheep,Artiodactyla,430,54%,2,3.41,2.29,0.1,9.11,0.4,2,22.8,80000,no,Blood;Ear
+Pagophilus groenlandicus,5.9.2,Harp seal,Carnivora,2,0%,2,17.15,0.08,17.09,17.21,0.625,4.74,42,180000,no,Blood;Skin
+Pan troglodytes,1.1.3,Chimpanzee,Primates,2,100%,1,43.88,0.42,43.58,44.18,0.627,8.62,59.4,44983.5,no,Blood
+Panthera leo nubica,5.2.4,Lion,Carnivora,7,86%,1,6.28,4.68,1.26,12.85,0.299,3,27,175000,no,Blood
+Panthera tigris,5.2.5,Tiger,Carnivora,8,50%,1,10.71,4.63,4.91,17.08,0.288,3.68,26.3,161914.66,no,Blood
+Papio hamadryas,1.4.3,Olive baboon,Primates,325,76%,6,13.98,6.2,-0.05,22.84,0.468,4.49,37.5,18000,no,Adipose;Cerebellum;Cortex;Heart;Liver;Muscle
+Perodicticus potto,1.5.4,Potto,Primates,1,0%,1,11.5,,11.5,11.5,0.466,1.5,32.4,919.9,no,Blood
+Peromyscus californicus,9.5.9,California mouse,Rodentia,16,44%,1,0.96,0.67,0.08,2.75,0.082,0.13,5.5,42,no,Tail
+Peromyscus eremicus,9.5.10,Cactus mouse,Rodentia,17,53%,1,1.36,0.85,0.16,2.66,0.071,0.35,7.4,25,no,Tail
+Peromyscus leucopus,9.5.11,White-footed mouse,Rodentia,31,74%,3,1.32,1.03,0.08,3.58,0.071,0.2,7.9,23,no,Brain;Liver;Tail
+Peromyscus maniculatus,9.5.12,Eastern deer mouse,Rodentia,50,78%,3,1.12,0.82,0.08,2.83,0.066,0.13,8.3,20.5,no,Brain;Liver;Tail
+Peromyscus polionotus,9.5.13,Oldfield mouse,Rodentia,16,56%,1,0.91,0.65,0.08,1.91,0.066,0.08,5.5,14,no,Tail
+Phascolarctos cinereus,11.4.1,Koala,Diprotodontia,4,25%,1,4.42,0.71,3.75,5.42,0.085,2.38,22.1,9300,yes,Blood
+Phoca vitulina,5.9.1,Harbor seal,Carnivora,68,56%,2,12.22,11.75,0.52,48,0.693,3.5,48,115000,no,Blood;Skin
+Phocoena phocoena,4.17.1,Harbor porpoise,Artiodactyla,2,100%,2,17,0.04,16.97,17.02,0.877,3.45,20.4,52500,no,Blood;Skin
+Phyllostomus discolor,8.4.5,Pale spear-nosed bat,Chiroptera,50,62%,1,5.18,5.58,0,17.7,0.288,2,18,43.4,no,Skin
+Phyllostomus hastatus,8.4.6,Greater spear-nosed bat,Chiroptera,72,86%,2,7.12,5.22,0,16.5,0.329,2,22,81,no,Liver;Skin
+Pongo pygmaeus,1.1.4,Orangutan,Primates,1,100%,1,43.69,,43.69,43.69,0.682,7,59,64475,no,Blood
+Procavia capensis,19.1.1,Rock hyrax,Hyracoidea,1,0%,1,14.64,,14.64,14.64,0.589,1.37,14.8,3600,no,Blood
+Propithecus coquereli,1.2.3,Coquerel's sifaka,Primates,4,25%,2,13.26,11.67,0.1,28.52,0.386,3.81,30.59,4189.27,no,Blood;Skin
+Propithecus diadema,1.2.1,Diademed sifaka,Primates,3,0%,2,16.4,2.23,14.19,18.65,0.43,2.88,21,5550,no,Blood;Skin
+Propithecus tattersalli,1.2.2,Golden-crowned sifaka,Primates,3,0%,1,15.41,11.07,3.52,25.43,0.404,4.5,26,3545,no,Blood
+Pteropus giganteus,8.5.3,Indian fruit bat,Chiroptera,4,0%,1,12.97,1.43,10.9,14.2,0.397,1,40,1175,no,Skin
+Pteropus hypomelanus,8.5.4,Variable flying fox,Chiroptera,40,70%,1,9.52,6.55,0.4,19.3,0.534,1,26.5,450,no,Skin
+Pteropus poliocephalus,8.5.5,Grey-headed flying fox,Chiroptera,16,62%,1,11.24,3.67,6.1,16.7,0.521,1.48,23.6,675,no,Skin
+Pteropus pumilus,8.5.6,Little golden-mantled flying fox,Chiroptera,46,52%,1,9.59,4.95,0.8,17.3,0.329,0.75,17.3,200,no,Skin
+Pteropus rodricensis,8.5.7,Rodriguez flying fox,Chiroptera,19,63%,1,14.96,4.77,4,20.9,0.542,1.5,28,350,no,Skin
+Pteropus vampyrus,8.5.8,Large flying fox,Chiroptera,51,53%,1,9.84,5.95,0.6,22.4,0.455,2,24,872,no,Skin
+Puma concolor,5.2.6,Florida panther,Carnivora,1,0%,1,0.21,,0.21,0.21,0.252,2.5,23.8,63000,no,Blood
+Rattus norvegicus,9.9.3,Brown rat,Rodentia,553,72%,15,1.1,0.81,-0.06,2.3,0.058,0.22,3.8,300,no,Adipose;Blood;Brain;Cerebellum;Heart;Hippocampus;Hypothalamus;iPSC;Liver;Muscle;Neocortex;Ovaries;Pituitary;Skin;Substantia nigra
+Rhinoceros unicornis,6.2.3,Greater one horned rhino,Perissodactyla,4,75%,1,6.35,4.47,2.73,12.68,1.312,5.8,43.5,1602330,no,Blood
+Rhinolophus ferrumequinum,8.6.1,Greater horseshoe bat,Chiroptera,40,100%,1,9.16,6.32,0,21.1,0.219,2,30.5,22.875,no,Skin
+Rhynchonycteris naso,8.17.2,Proboscis bat,Chiroptera,22,27%,1,1.93,1.48,0.1,6,0.405,1.5,8.5,3.9,no,Skin
+Rousettus aegyptiacus,8.5.9,Egyptian fruit bat,Chiroptera,16,50%,1,9.14,2.32,5,14,0.318,1,22.9,125,no,Skin
+Saccopteryx bilineata,8.17.1,Greater sac-winged bat,Chiroptera,29,69%,1,2.53,2.03,0.2,8.3,0.351,1,11,7.9,no,Skin
+Sarcophilus harrisii,18.1.1,Tasmanian devil,Dasyuromorphia,41,56%,1,3.43,2.58,0.5,8,0.071,2,13,8202.25,yes,Ear
+Sorex cinereus,12.3.10,Cinereus shrew,Eulipotyphla,47,43%,3,0.61,0.41,-0.04,1.33,0.052,0.42,1.9,4.3,no,Fetus;Liver;Tail
+Spalax galili,9.14.1,Blind mole rat,Rodentia,1,100%,1,1.5,,1.5,1.5,0.093,1.67,15,125,no,Skin
+Steno bredanensis,4.13.10,Rough-toothed dolphin,Artiodactyla,12,67%,2,13.55,6.76,4.64,23.89,1.03,10,32,114000,no,Blood;Skin
+Sus scrofa domesticus,4.7.1,Pig,Artiodactyla,188,77%,10,1.76,1.71,-0.3,6.26,0.315,0.46,23,350000,no,Bladder;Blood;ES;Fetus;Fibroblast;FrontalCortex;iPSC;Kidney;Liver;Lung
+Sus scrofa minusculus,4.7.2,Winsconsin miniature pig,Artiodactyla,60,100%,1,1,1.2,0.02,5.15,0.315,0.46,23,100000,no,Blood
+Sylvilagus floridanus,3.1.2,Eastern cotton rabbit,Lagomorpha,1,100%,1,0.06,,0.06,0.06,0.082,0.34,9.8,1150,no,Skin
+Tachyglossus aculeatus,21.2.1,Short-beaked echidna,Monotremata,11,55%,4,4.81,6.4,0.12,20.56,0.092,1.5,49.5,3500,no,Blood;Brain;Kidney;Liver
+Tadarida brasiliensis,8.8.3,Mexican free-tailed bat,Chiroptera,19,47%,1,2.09,2.28,0.2,6.2,0.214,1.12,12,12.5,no,Skin
+Taurotragus oryx,4.1.18,Eland,Artiodactyla,1,0%,1,2.14,,2.14,2.14,0.751,1.59,26.1,500000,no,Blood
+Tragelaphus angasii,4.1.19,Nyala,Artiodactyla,5,60%,1,7.05,3.21,2.15,10.94,0.614,1.24,18.5,120000,no,Blood
+Tragelaphus eurycerus,4.1.20,Bongo,Artiodactyla,5,60%,1,4.01,6.18,0.01,14.39,0.789,2.36,21.9,307500,no,Blood
+Tragelaphus imberbis,4.1.21,Lesser kudu,Artiodactyla,7,57%,1,6.34,5.48,0.01,11.47,0.644,1.38,19.8,82500,no,Blood
+Tragelaphus spekii,4.1.22,Sitatunga,Artiodactyla,3,100%,1,6.58,0.42,6.25,7.05,0.663,1.1,22.6,87500,no,Blood
+Tragelaphus strepsiceros,4.1.23,Greater kudu,Artiodactyla,9,78%,1,8.53,5.84,0.26,14,0.625,1.42,23.5,217500,no,Blood
+Trichechus manatus,14.1.1,West Indian manatee,Sirenia,10,50%,2,8.23,13.69,1.2,34.15,0.918,3,69,467324.83,no,Blood;Skin
+Tupaia gracilis,17.1.2,Slender treeshrew,Scandentia,2,100%,1,0.4,0.14,0.3,0.5,0.129,0.31,11.86,164.1,no,Ear
+Tupaia longipes,17.1.3,Long-footed treeshrew,Scandentia,12,42%,3,1.51,0.69,0.8,3,0.129,0.31,12,164.1,no,Ear;Liver;Muscle
+Tupaia tana,17.1.4,Large treeshrew,Scandentia,29,38%,3,1.86,0.67,1,3,0.129,0.31,11.6,197.8,no,Ear;Kidney;Liver
+Tursiops aduncus,4.13.9,Indo-Pacific bottlenose dolphin,Artiodactyla,44,34%,1,19.09,7.72,3,37,1,6.75,49,130000,no,Skin
+Tursiops truncatus,4.13.6,Bottlenose dolphin,Artiodactyla,258,68%,2,19.74,12.69,0.57,57.87,1.03,8.93,67,200000,no,Blood;Skin
+Ursus americanus,5.11.1,American black bear,Carnivora,1,100%,1,0.1,,0.1,0.1,0.192,3.5,34,154250,no,Blood
+Varecia rubra,1.3.14,Red ruffed lemur,Primates,4,25%,2,12.14,16.26,0.38,34.85,0.268,1.72,37.5,3601.3,no,Blood;Skin
+Varecia variegata,1.3.13,Black and white ruffed lemur,Primates,5,0%,2,13.18,15.5,0.86,39.39,0.268,1.72,39.4,3482.3,no,Blood;Skin
+Vicugna pacos,4.2.1,Alpaca,Artiodactyla,5,60%,1,7.93,4.75,1.67,15,0.945,1.28,25.8,62000,no,Blood
+Vulpes vulpes,5.1.5,Red fox,Carnivora,1,0%,1,0.33,,0.33,0.33,0.142,0.83,21.3,4131.7,no,Blood
+Zalophus californianus,5.8.3,California sea lion,Carnivora,86,52%,2,7.85,8.72,0.01,32.24,0.71,4,35.7,180000,no,Blood;Skin
