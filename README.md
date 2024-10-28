@@ -1,5 +1,5 @@
 This repository provides the python/r code and raw data file used in research "Optimizing human SIRT6 protein with deep learning of 3D structures based on maximum lifespan". 
-This is <b>my first research project completed independently :smile:</b>, it developed a comprehensive framework of sequence optimization methods for functional proteins whose efficiency is relatively harder to obtain or measure directly, therfore corresponding code can not only be used for the generation and site prediction of SIRT6 variants, but also for other protein sequences.
+This is <b>my first research project completed independently :smile:</b>, it developed a comprehensive framework of sequence optimization methods for functional proteins whose efficiency is relatively harder to obtain or measure directly, therefore corresponding code can not only be used for the generation and site prediction of SIRT6 variants, but also for other protein sequences.
 
 # Related Publication & patent
 1. Zhang, Y., & Ruan, Z. (2024). Optimizing human SIRT6 protein with deep learning of 3D structures based on maximum lifespan. Highlights in Science, Engineering and Technology, 102, 51-60. https://doi.org/10.54097/8b4msf08
